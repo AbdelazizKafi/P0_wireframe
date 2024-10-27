@@ -41,5 +41,5 @@ l'app i els camps que ha d'omplir i clicar al botó d'acceptar les condicions, i
 Pantalla de blog i notícies: Mostra notícies i un blog per als usuaris, on a la part superior hi ha una opció per filtrar per diferents
 tipus de publicacions o notícies.
 
-NOTA: Quasi totes les pantalles tenen a la part superior la barra de buscar i el menú (el menú son les tres línies amb punts), només els
-hi falta a la pantalla d'autenticació i a la pantalla de registre d'usuaris.
+NOTA: Quasi totes les pantalles tenen a la part superior la barra de buscar, el menú (el menú son les tres línies amb punts) i a la part inferior les icones per anar als diferents
+llocs, només els hi falta a la pantalla d'autenticació i a la pantalla de registre d'usuaris.
